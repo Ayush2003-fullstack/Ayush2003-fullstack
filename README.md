@@ -1,86 +1,28 @@
-<h1 align="center">Hey Everyone 👋, I'm Aditya Jaiswal</h1>
+👋 Hey there! I'm Ayush Singh
+🚀 Computer Science Graduate | DevOps Enthusiast | Cloud Explorer
 
-<div align="center">
-  
-</div>
+🎓 B.Tech in CSE from Sri Venkateshwara College of Engineering, Bengaluru
+🛠 Skilled in building scalable, secure applications using modern DevOps and cloud technologies.
 
-<h3 align="center">A passionate DevOps Engineer from India. I work in the Corporate IT Sector </h3>
+💻 Tech Stack & Tools I Work With:
+☁️ AWS | Docker | Kubernetes | Terraform | Jenkins | Argo CD
+🧰 Git | GitLab | SonarQube | Trivy | Helm | Prometheus | Grafana
+🔧 Java | Python | JavaScript | React.js | MySQL | HTML/CSS
+🔨 Notable Projects
+1. Automated Deployment on AWS EC2 with K8s & Argo CD
+📦 Built a scalable app pipeline using MongoDB, Express, React, Node.js on AWS EC2 with Kubernetes.
 
-<p align="center">
-  <a href="https://github.com/Ayush2003-fullstack">
-    <img src="https://img.shields.io/github/followers/jaiswaladi246?label=Follow&style=social" />
-  </a>
+2. Wanderlust 🌍 – Your Ultimate Travel Blog
+🧳 A MERN-based travel blog deployed on AWS EKS, secured with OWASP tools & monitored via Prometheus and Grafana.
 
-  <a href="https://www.linkedin.com/in/ayush-singh-59469b310/">
-    <img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jaiswal-blue?logo=linkedin&style=flat-square" />
-  </a>
-</p>
+3. Multi-Environment Infra with Terraform & Ansible
+⚙️ Designed robust Dev, Staging & Prod environments with IaC principles for seamless cloud infra provisioning.
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+🌱 Currently Exploring:
+Advanced CI/CD pipelines
+Cloud security and compliance tools
+Open source contributions in DevOps
+📬 Let’s connect:
+📧 ayush054483@gmail.com
+🔗 LinkedIn
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Ayush2003-fullstack&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-- 👨‍💻 All of my projects are available at [https://github.com/jaiswaladi246](https://github.com/Ayush2003-fullstack/)  
-- 💬 Ask me about **DevOps & Cloud DevOps**  
-- 📫 How to reach me **ayush054483@gmail.com.**
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/ayush-singh-59469b310/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" height="30" width="40" /></a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40"/>
-</p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jaiswaladi246&show_icons=true&locale=en&layout=compact&theme=vue&hide_border=true" alt="Top Langs" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jaiswaladi246&show_icons=true&locale=en&theme=vue&hide_border=true" alt="GitHub Stats" /></p>
-
----
-### 🔥 GitHub Contribution Streak
-
-![GitHub Streak Badge](https://img.shields.io/badge/GitHub%20Streak-Active-brightgreen?logo=github&style=for-the-badge)
-
----
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=jaiswaladi246&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
----
-
-### 👨‍💼 About Me & 🤝 Open to Collaborations
-
-🎤 Available for **Work**  
-🤝 Open to **Project Collaborations **  
-💼 Offering **DevOps Consulting **  
-📧 Let’s chat: [ayush054483@gmail.com](mailto:ayush054483@gmail.com)
-
-> *"Helping people crack DevOps with real-world knowledge. Let’s build and automate the future, one pipeline at a time!"*
